@@ -4,6 +4,18 @@ Django Channels Chat Example taken from [channels-examples](https://github.com/a
 
 ## Installation
 
+### Install Redis
+	
+	sudo apt install redis-server
+
+check redis status
+
+	sudo service redis status
+
+use redis cli
+	
+	redis-cli
+
 ### Manual installation
 
 
